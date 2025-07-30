@@ -10,8 +10,9 @@ function App() {
     <div className="App">
       <Header />
       <main>
-        <h1>Welcome to React Starter</h1>
-        <p>This is a simple React application to get you started.</p>
+        <h1>🎉 Mike's Amazing Counter App!</h1>
+        <p>Built with React and deployed automatically via GitHub → Netlify</p>
+        <p><strong>Status:</strong> Deployment workflow is working perfectly! 🚀</p>
         <Counter count={count} setCount={setCount} />
       </main>
     </div>
