@@ -5,7 +5,7 @@ function Header() {
     <header className="header">
       <nav>
         <h2>
-          Hey I made a Counter app, hooked it up to git up and deployed it
+          Mike's Counter App
         </h2>
       </nav>
     </header>
