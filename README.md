@@ -1,5 +1,7 @@
 # React Starter App
 
+🚀 **Live at:** [Your Netlify URL]
+
 A simple React starter application with a counter component and modern webpack setup.
 
 ## Features
